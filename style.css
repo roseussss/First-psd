@@ -1,0 +1,43 @@
+.firstslide {
+height: 600px;
+background-color: #87509c;
+}
+
+.header-logo {
+padding-top: 60px;
+padding-left: 210px;
+}
+
+.menu ul {
+display: flex;
+wrap: nowrap;
+justify-content: flex-end;
+text-decoration: none;
+padding-right: 210px;
+margin-top: 0px;
+color: white;
+}
+
+.menu li {
+margin-right: 30px;
+list-style-type: none;
+text-decoration: none;
+font-family: TitilliumWeb, "Arial", sans-serif;
+font-size: 14px;
+color: white;
+}
+
+.home li {
+background-color: #643a79;
+width: 80px;
+height: 33px;
+}
+
+.title1 p {
+font-family: TitilliumWeb, "Arial", sans-serif;
+font-size: 43px;
+font-weight: bold;
+text-align: center;
+padding-top: 80px;
+color: white;
+}
